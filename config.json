@@ -1,0 +1,14 @@
+{
+  "docker_host": "127.0.0.1",
+  "docker_port": 19530,
+  "collection_name": "ksn",
+  "crud_operation": "insert",
+  "file_location": "pdf_invoices",
+  "file_type": "pdf",
+  "chunk_size": 500,
+  "chunk_overlap": 20,
+  "embedding_model": "all-mpnet-base-v2",
+  "dimension": 768,
+  "batch_size": 128,
+  "topk": 3
+}
