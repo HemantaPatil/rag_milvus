@@ -1,7 +1,7 @@
 {
   "docker_host": "127.0.0.1",
   "docker_port": 19530,
-  "collection_name": "ksn",
+  "collection_name": "fudge",
   "crud_operation": "insert",
   "file_location": "pdf_invoices",
   "file_type": "pdf",
